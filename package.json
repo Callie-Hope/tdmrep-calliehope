@@ -1,0 +1,11 @@
+{
+  "name": "tdmrep-calliehope",
+  "version": "1.0.0",
+  "description": "Mise à jour automatique de la date de publication du fichier tdmrep.json",
+  "main": "update-tdmrep.js",
+  "scripts": {
+    "miseajour": "node update-tdmrep.js"
+  },
+  "author": "Callie Hope",
+  "license": "MIT"
+}
