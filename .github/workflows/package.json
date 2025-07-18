@@ -1,0 +1,12 @@
+{
+  "name": "tdmrep-calliehope",
+  "version": "1.0.0",
+  "description": "Script pour mettre à jour automatiquement le fichier tdmrep.json",
+  "main": "update-tdmrep.js",
+  "type": "module",
+  "scripts": {
+    "update": "node update-tdmrep.js"
+  },
+  "author": "Callie Hope",
+  "license": "MIT"
+}
