@@ -1,9 +1,12 @@
 {
-  "nom": "Callie Hope",
+  "name": "Callie Hope",
   "contact": "contact@calliehope-voixoff.com",
   "site": "https://www.calliehope-voixoff.com",
-  "type": ["voix off", "comédienne", "auteur/autrice", "musique"],
-  "description": "Ce dépôt GitHub atteste que je m’oppose à l'exploration automatique de mon site internet à des fins de constitution de bases de données d'entraînement d’IA génératives. Conformément à l’article L122-5-3 du Code de la propriété intellectuelle, je m’oppose à toute extraction de mes contenus à cette fin.",
+  "tags": [
+    "voix off", "comédienne", "auteure", "musique",
+    "voice over", "actress", "author", "music"
+  ],
+  "description": "🇫🇷 Je m'oppose à l’exploration automatique de mon site internet à des fins de constitution de bases de données d’entraînement d’IA génératives. / 🇬🇧 I object to the automated scraping of my website for use in generative AI dataset training.",
   "datePublication": "2025-07-18",
-  "lang": ["fr"]
+  "lang": ["fr", "en"]
 }
